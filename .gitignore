@@ -2,6 +2,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.bundle
 
 # LaTeX stuff
 ## Core latex/pdflatex auxiliary files:
