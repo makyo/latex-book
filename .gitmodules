@@ -1,3 +1,6 @@
 [submodule "lesson-1"]
 	path = lesson-1
 	url = https://github.com/makyo/latex-book-tutorial.git
+[submodule "lesson-2"]
+	path = lesson-2
+	url = https://github.com/makyo/latex-book-tutorial.git

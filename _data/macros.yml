@@ -1,1 +1,2 @@
 latex: '<span class="LaTeX">L<sup>a</sup>T<sub>e</sub>X</span>'
+xelatex: '<span class="LaTeX">X<sub>Ǝ</sub>L<sup>a</sup>T<sub>e</sub>X</span>'
